@@ -1,4 +1,2 @@
 # IBMDataScience
-My work to get certification,
-
-BayuBona is samantha
+My work to get certification
